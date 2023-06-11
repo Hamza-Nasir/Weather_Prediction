@@ -1,12 +1,12 @@
-#Welcome to Weather Prediction Application
+# Welcome to Weather Prediction Application
 
-##Tech Stack: 
+## Tech Stack: 
 Python, Flask, Tensorflow
 
-##Requirements:
+## Requirements:
     1) .env file (contact devs for access)
 
-##Installation:
+## Installation:
 
     1) Create a Python virtual environment using the following command:
         "python -m venv ENV_NAME"
@@ -20,8 +20,7 @@ Python, Flask, Tensorflow
     4) Run the application using the following command:
         "flask run"
 
-##Commit Guidelines:
+## Commit Guidelines:
     1) Commit bug fixes to the bug-fix branch
-    2) Commit feature additions to the the feature branch
-    3) For code review, personal use and contributions, create a 
-       branch with your name.
+    2) Commit feature additions to the the feature-development branch
+    3) For code review, personal use and contributions, create a branch with your name.
