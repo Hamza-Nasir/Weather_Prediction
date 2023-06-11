@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Weather Prediction</title>
+    <title>Weather Prediction Application</title>
     <link
       rel="stylesheet"
       type="text/css"
@@ -15,12 +15,12 @@
         <a class="form-button" href="/form">Enter Data</a>
       </div>
 
-      <h3>Last Updated: {{ time }}</h3>
+      <h3>Weather Last Updated: {{ time }}</h3>
 
       <p>Precipitation: {{ precipitation }}</p>
       <p>Wind Speed: {{ wind_speed }}</p>
-      <p>Max Temperature: {{ max_temp }}</p>
-      <p>Min Temperature: {{ min_temp }}</p>
+      <p>Maximum Temperature: {{ max_temp }}</p>
+      <p>Minimum Temperature: {{ min_temp }}</p>
       {% if prediction %}
       <h2>The predicted weather is: {{ prediction }}</h2>
       {% endif %}
