@@ -1,5 +1,4 @@
-.env
-DOCKERFILE
+.flaskEnv
 flaskEnv/
 mlartifacts/
 mlruns/
