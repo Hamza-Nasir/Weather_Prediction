@@ -1,0 +1,6 @@
+__pycache__/*
+.dvc/*
+flaskEnv/*
+mlartifacts/*
+mlruns/*
+modelTraining/*
