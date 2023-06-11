@@ -1,14 +1,26 @@
-To install and run:
+# Welcome to Weather Prediction Application
 
-1) Create a Python virtual environment using the following command:
-    "python -m venv ENV_NAME"
+## Tech Stack: 
+Python, Flask, Tensorflow
 
-2) Run the venv using the following command:
-    "ENV_NAME/Scripts/activate"
+## Requirements:
+    1) .env file (contact devs for access)
 
+## Installation:
 
-3) Inside the repo folder, run:
-    "pip install -r requirements.txt"
+    1) Create a Python virtual environment using the following command:
+        "python -m venv ENV_NAME"
 
-4) Run the application using the following command:
-    "flask run"
+    2) Run the venv using the following command:
+        "ENV_NAME/Scripts/activate"
+
+    3) Inside the repo folder, run:
+        "pip install -r requirements.txt"
+
+    4) Run the application using the following command:
+        "flask run"
+
+## Commit Guidelines:
+    1) Commit bug fixes to the bug-fix branch
+    2) Commit feature additions to the the feature-development branch
+    3) For code review, personal use and contributions, create a branch with your name.
